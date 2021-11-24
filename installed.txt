@@ -1,0 +1,9 @@
+Key Promoter X
+com.baomidou.plugin.idea.mybatisx
+com.failfast
+com.huangmb.idea
+com.intellij.zh
+izhangzhihao.rainbow.brackets
+net.vektah.codeglance
+org.intellij.gitee
+org.jetbrains.plugins.vue
